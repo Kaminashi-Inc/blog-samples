@@ -4,4 +4,4 @@
 
 ## ライセンス
 
-本リポジトリ(https://github.com/Kaminashi-Inc/blog-samples)のコンテンツは、[MIT ライセンス](./LICENSE)のもとに提供されます
+[本リポジトリ](https://github.com/Kaminashi-Inc/blog-samples)のコンテンツは、[MIT ライセンス](./LICENSE)のもとに提供されます
